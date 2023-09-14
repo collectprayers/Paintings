@@ -1,0 +1,29 @@
+body {
+    font: 1.2em;
+    font-family: "Ã£Æ’â€™Ã£Æ’Â©Ã£â€šÂ®Ã£Æ’Å½Ã¨Â§â€™Ã£â€šÂ´ Pro W3", "Hiragino Kaku Gothic Pro", Osaka,
+      "Ã£Æ’Â¡Ã£â€šÂ¤Ã£Æ’ÂªÃ£â€šÂª", Meiryo, "MS PÃ£â€šÂ´Ã£â€šÂ·Ã£Æ’Æ’Ã£â€šÂ¯", "MS PGothic", farial, helvetica,
+      clean, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #000;
+      color: #fff;
+      cursor: url('/fun/MagicStick.ani'), auto;
+
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 90vh;
+    }
+  
+    a {
+      cursor: url('/fun/pasteldarkblue.cur'), pointer;
+  }
+
+  .text {
+    padding: 50px;
+  }
+
+  .xo {
+    text-align:center;
+  }
